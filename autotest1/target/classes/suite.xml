@@ -1,0 +1,15 @@
+
+<suite name = "test">
+    <test name = "login">
+        <classes>
+            <class name = "com.couse.testng.suit.SuitConfig"/>
+            <class name = "com.couse.testng.suit.LoginTset"/>
+        </classes>
+    </test>
+    <test name = "pay">
+        <classes>
+            <class name = "com.couse.testng.suit.SuitConfig"/>
+            <class name = "com.couse.testng.suit.PayTest"/>
+        </classes>
+    </test>
+</suite>
